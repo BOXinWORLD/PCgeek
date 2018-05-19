@@ -2,9 +2,9 @@
 =========
 学生作品 留此记录
 pc硬件科普新闻类app
-
+  
 知识记录：
-封装
+函数封装
 bmob后端
 style颜色 logo 名字
 总体布局
@@ -23,3 +23,4 @@ fragment
 下拉刷新swipeRefreshlayout 自动上拉加载+footerView
 （包含如何listview刷新 adapter刷新 setlistener，多线程相关）
 自定义字体与使用
+  
