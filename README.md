@@ -2,7 +2,8 @@
 ***
 学生作品 留此记录<br>
 pc硬件科普新闻类app <br>
-
+![](https://github.com/BOXinWORLD/PCgeek/1.png)
+![](https://github.com/BOXinWORLD/PCgeek/2.png)
 ***
 知识记录：
 函数封装
